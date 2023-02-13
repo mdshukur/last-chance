@@ -2,7 +2,7 @@
   "name": "react-saas-template",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://github.com/mdshukur/last-chance",
+  "homepage": "https://github.com/mdshukur/last-chance",
   "description": "auralyze.ai source code",
   "dependencies": {
     "@date-io/date-fns": "^1.3.13",
